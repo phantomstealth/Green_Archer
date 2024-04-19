@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy_yellow_monster
+  - fireball
+  - box
+  - sword
+  - money
+  - platform
+  - arrow
+  - buttonJump
+  - buttonFire
+  - buttonLeft
+  - buttonRight
+  - hearth
+  - buttonFireArrow
+  - Prize_Arrow
+  - monster
+  - Orc
+  - buttonShield
+  - isgrounded
+  - Prize_Sword
+  - Prize_Shield
+  - Drago
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back
+    uniqueID: 1086891629
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
